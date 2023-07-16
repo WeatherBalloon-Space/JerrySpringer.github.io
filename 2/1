@@ -1,0 +1,11 @@
+{
+    "image": "https://raw.githubusercontent.com/WeatherBalloon-Space/JerrySpringer.github.io/main/2.png",
+    "tokenId": 1,
+    "name": "JerrySpringer #1",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        }
+    ]
+}
